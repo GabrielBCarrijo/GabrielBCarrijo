@@ -1,23 +1,30 @@
-👋 Sobre mim
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: auto; padding: 20px; line-height: 1.6; color: #333;">
 
-Sou desenvolvedor com experiência em desenvolvimento web e desktop, atuando desde a modelagem de banco de dados até a construção de interfaces funcionais e intuitivas.
+  <h2 style="font-size: 2rem; color: #4CAF50;">👋 Sobre mim</h2>
+  <p>
+    Sou desenvolvedor com experiência em <strong>desenvolvimento web e desktop</strong>, atuando desde a modelagem de banco de dados até a construção de interfaces funcionais e intuitivas.
+  </p>
 
-🚀 Tecnologias que utilizo
+  <h2 style="font-size: 2rem; color: #4CAF50; margin-top: 2rem;">🚀 Tecnologias que utilizo</h2>
 
-Frontend: TypeScript, Angular, HTML, CSS
+  <ul style="list-style: none; padding: 0;">
+    <li><strong>Frontend:</strong> TypeScript, Angular, HTML, CSS</li>
+    <li><strong>Backend:</strong> Node.js, NestJS, VB6</li>
+    <li><strong>Banco de Dados:</strong> SQL Server Express, MySQL</li>
+  </ul>
 
-Backend: Node.js, NestJS, VB6
+  <p>
+    Tenho vivência em integrações entre sistemas, criação de relatórios, dashboards e soluções que facilitam a gestão de negócios. Busco sempre aplicar <strong>boas práticas de código</strong>, arquitetura limpa e foco na experiência do usuário.
+  </p>
 
-Banco de Dados: SQL Server Express, MySQL
+  <div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 10px;">
+    <img alt="TypeScript" title="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="Angular" title="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">  
+    <img alt="HTML5" title="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS3" title="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="VB6" title="VB6" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
+    <img alt="SQL Server" title="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+    <img alt="MySQL" title="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">   
+  </div>
 
-Tenho vivência em integrações entre sistemas, criação de relatórios, dashboards e soluções que facilitam a gestão de negócios. Busco sempre aplicar boas práticas de código, arquitetura limpa e foco na experiência do usuário.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carrijo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carrijo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">  
-  <img align="center" alt="Carrijo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carrijo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carrijo-VB6" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
-  <img align="center" alt="Carrijo-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  <img align="center" alt="Carrijo-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">   
 </div>
