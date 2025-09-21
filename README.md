@@ -1,4 +1,16 @@
-## Olá!! Carrijo aqui, seja bem-vindo ao meu GitHub!
+👋 Sobre mim
+
+Sou desenvolvedor com experiência em desenvolvimento web e desktop, atuando desde a modelagem de banco de dados até a construção de interfaces funcionais e intuitivas.
+
+🚀 Tecnologias que utilizo
+
+Frontend: TypeScript, Angular, HTML, CSS
+
+Backend: Node.js, NestJS, VB6
+
+Banco de Dados: SQL Server Express, MySQL
+
+Tenho vivência em integrações entre sistemas, criação de relatórios, dashboards e soluções que facilitam a gestão de negócios. Busco sempre aplicar boas práticas de código, arquitetura limpa e foco na experiência do usuário.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carrijo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
